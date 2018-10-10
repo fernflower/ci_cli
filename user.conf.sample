@@ -1,0 +1,9 @@
+[default]
+# username to access dev_servers.
+ssh_user=
+# username to access jenkins
+user=
+# jenkins API token. If not set must be specified for every ci_cli request
+token=
+# jenkins url
+ci_host=https://ci.mcp.mirantis.net
