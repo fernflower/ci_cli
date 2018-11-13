@@ -1,5 +1,6 @@
 [jenkins]
 job=deploy-heat-os_ha_contrail
+mainScript=configurations/main_scripts/cloud-deploy-pipeline.groovy
 
 [default]
 ASK_ON_ERROR=

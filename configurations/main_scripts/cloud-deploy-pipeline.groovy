@@ -1,0 +1,1 @@
+/home/ina/projects/mk-pipelines/cloud-deploy-pipeline.groovy

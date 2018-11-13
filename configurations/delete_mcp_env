@@ -1,0 +1,9 @@
+[jenkins]
+job=delete-heat-stack-for-mcp-env
+
+[default]
+REFSPEC=
+OS_PROJECT_NAME=mcp-opencontrail
+STACK_NAME=
+OPENSTACK_API_CREDENTIALS=openstack-devcloud-credentials
+OPESTACK_ENVIRONMENT=devcloud
